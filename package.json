@@ -61,7 +61,7 @@
     "hints": "^0.2.0",
     "istanbul": "~0.3.0",
     "jshint": ">=2.4.2",
-    "lcov-result-merger": "~1.0.0",
+    "lcov-result-merger": "~3.1.0",
     "mocha": "^2.2.1",
     "mysql": "~2.6.2",
     "pg": "^4.2.0",
