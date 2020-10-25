@@ -54,7 +54,7 @@
     "chai-datetime": "~1.4.0",
     "chai-spies": "~0.6.0",
     "coffee-script": "~1.9.1",
-    "commander": "^2.6.0",
+    "commander": "^6.2.0",
     "continuation-local-storage": "^3.1.4",
     "dox": "0.7.1",
     "git": "^0.1.5",
